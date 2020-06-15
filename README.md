@@ -31,6 +31,18 @@ Params:
 
 This is a special file which includes multiple `functions` and some `constants` related to math.
 
+#### `$pi`
+
+> 3.14159265;
+
+#### `$e`
+
+> 2.71828183;
+
+### `$ln10`
+
+> 2.30258509;
+
 #### `fact($value)`
 
 Factorial of `$value`.
