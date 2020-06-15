@@ -39,7 +39,7 @@ This is a special file which includes multiple `functions` and some `constants` 
 
 > 2.71828183;
 
-### `$ln10`
+#### `$ln10`
 
 > 2.30258509;
 
