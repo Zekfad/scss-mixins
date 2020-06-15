@@ -160,7 +160,7 @@ Used to wrap calc directive into vendor prefixed versions:
 Center object using flexbox:
 
 ```scss
-@include center($align-items-to-center: false)
+@include center($align-items-to-center: false);
 ```
 
 #### `center-margin`
